@@ -1,0 +1,6 @@
+*
+!*/
+
+!/.github/**/*.yaml
+!/.gitignore
+!/Dockerfile
